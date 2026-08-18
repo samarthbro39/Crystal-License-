@@ -1,8 +1,8 @@
-# Crystal Bot — License & Ownership Notice
+### Crystal Bot — License & Ownership Notice
 
 **Crystal Bot** and its associated source code, software, documentation, designs, and related materials are the intellectual property of **Samarth Agarwal**, subject to applicable rights and licensing terms.
 
-**License Owner:** Samarth Agarwal
+**License Owner:** Samarth Aggarwal
 **License Registration / Documentation:** GitHub
 
 No person or entity is permitted to use, copy, reproduce, modify, distribute, resell, sublicense, claim ownership of, or commercially exploit Crystal Bot or its licensed materials without prior written authorization from the license owner.
@@ -11,5 +11,5 @@ Any unauthorized use or infringement of the applicable copyright or licensed rig
 
 The owner reserves the right to take appropriate legal action against unauthorized use, reproduction, distribution, or exploitation of the software and its protected materials.
 
-**© Samarth Agarwal — Crystal Bot**
+**© Samarth Aggarwal — Crystal Bot**
 **All Rights Reserved.**
